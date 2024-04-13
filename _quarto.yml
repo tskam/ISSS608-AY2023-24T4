@@ -5,6 +5,14 @@ website:
   title: "ISSS608-AY2023-24T4"
   navbar:
     left:
+      - text: Hands-on Exercise
+        menu: 
+          - text: "Hands-on Exercise 1"
+            href: "Hands-on/Hands-on_Ex01/Hands-on_Ex01.html"
+      - text: In-class Exercise
+        menu: 
+          - text: "In-class Exercise 1"
+            href: "In-class_Ex/In-class_Ex01/In-class_Ex01.html"
       - href: index.qmd
         text: Home
       - about.qmd
